@@ -249,7 +249,7 @@ img {
   width: 100%;
   height: 80vh;
   padding: 0 2rem;
-  background: #9df5b3;
+  background: #77d48e;
 }
 
 .testimonial-section > p {
@@ -258,8 +258,6 @@ img {
   font-style: italic;
   color: var(--main-red);
 }
-
-
 
 /* Contact section */
 
