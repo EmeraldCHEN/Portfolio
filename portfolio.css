@@ -238,6 +238,29 @@ img {
   transition: transform 0.3s ease-out;
 }
 
+/* Testimonial section */
+
+.testimonial-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: left;
+  width: 100%;
+  height: 80vh;
+  padding: 0 2rem;
+  background: #9df5b3;
+}
+
+.testimonial-section > p {
+  font-size: 3rem;
+  font-weight: 200;
+  font-style: italic;
+  color: var(--main-red);
+}
+
+
+
 /* Contact section */
 
 .contact-section {
